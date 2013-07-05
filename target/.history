@@ -1,0 +1,100 @@
+android:emulator-start Android-4.2
+android:package-debug
+android:start-emualtor
+android:start-emulator
+gen-idea no-classifiers
+val scalaj_http = "org.scalaj" %% "scalaj-http" % "0.3.7"
+console
+android:package-debug
+gen-idea no-classifiers
+android:package-debug
+android:start-emulator
+android:package-debug
+android:start-emulator
+android:package-debug
+android:start-emulator
+android:package-debug
+gen-idea no-classifiers
+console
+gen-idea no-classifiers
+android:emulator-start
+android:emulator-start Android-4.2
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+android:package-debug
+android:start-emulator
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+gen-idea no-classifiers
+android:start-emulator
+android:emulator-start Android-4.2
+android:start-emulator
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+android:emulator-start
+android:start-emulator
+android:start-emulator compile
+android:start-emulator -compile
+android:start-emulator
+compile
+gen-idea no-classifiers
+console
+compile
+gen-idea no-classifiers
+compile
+gen-idea no-classifiers
+compile
+android:start-emulator
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+android:emulator-start Android-4.2
+compile
+android:start-emulator
+compile
+gen-idea no-classifiers
+android:emulator-start Android-4.2
+android:start-emulator
+console
+compile
+console
+android:start-emulator
+console
+android:start-emulator
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+android:emulator-start Android-4.2
+android:start-emualtor
+android:start-emulator
+console
+android:start-emulator
+console
+android:start-emulator
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-device
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+android:emulator-start Android-4.2
+console
+android:emulator-start
+android:emulator-start Android-4.2
+android:start-emulator
+console
+android:start-emulator
+console
+android:start-emulator
+console
+android:start-emulator
+console
+android:start-emulator
+console
+android:start-emulator

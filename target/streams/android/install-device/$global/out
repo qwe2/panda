@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0m/opt/android-studio/sdk/platform-tools/adb -d install -r  /home/isti/Projects/Android/panda/target/panda-0.1.apk[0m
+[0m[[0minfo[0m] [0m	pkg: /data/local/tmp/panda-0.1.apk[0m
+[0m[[0minfo[0m] [0mSuccess[0m
+[0m[[0minfo[0m] [0m1885 KB/s (1243612 bytes in 0.644s)[0m
